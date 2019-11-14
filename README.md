@@ -1,1 +1,1 @@
-# betting_hub
+# Betting Hub
